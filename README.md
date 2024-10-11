@@ -1,7 +1,3 @@
-# machine_learning_score_de_credito
-Modelo preditivo utilizando técnicas de machine learning para classificar o score de crédito dos clientes de um banco
-
-
 # Modelo Preditivo de Score de Crédito
 
 Este projeto tem como objetivo desenvolver um modelo preditivo utilizando técnicas de **machine learning** para classificar o score de crédito dos clientes de um banco. Através da análise de dados financeiros e afins, o modelo categoriza os clientes em três grupos de risco de crédito: **Ruim**, **Ok** e **Bom**.
