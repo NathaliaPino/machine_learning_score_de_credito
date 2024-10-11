@@ -17,7 +17,7 @@ Este projeto realiza a comparação entre dois algoritmos de machine learning:
 
 ## Funcionalidades
 
-- **Leitura e Preprocessamento de Dados**: Importa dados financeiros e demográficos a partir de um arquivo CSV.
+- **Leitura e Preprocessamento de Dados**: Importa um arquivo CSV.
 - **Codificação de Variáveis**: Converte variáveis categóricas em numéricas para processamento pelos modelos.
 - **Divisão de Dados**: Separa os dados em conjuntos de treino e teste.
 - **Treinamento de Modelos**: Treina os modelos de Árvore de Decisão e KNN.
